@@ -1,4 +1,3 @@
-# Data_visualization
 # Data Visualization
 
 ## Overview
